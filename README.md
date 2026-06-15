@@ -1,5 +1,5 @@
 <div align="center">
-
+                                                                                                                                                              
 # 👋 Hey there, I'm **Sridar Vijaya Kumar**
 
 ###  👨‍💻 Mern Stack Developer | JavaScript | React.js | GitHub Contributor

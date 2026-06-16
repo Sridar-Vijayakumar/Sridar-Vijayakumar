@@ -2,7 +2,7 @@
                                                                                                                                                               
 # 👋 Hey there, I'm **Sridar Vijaya Kumar**
 
-###  👨‍💻 Mern Stack Developer | JavaScript | React.js | GitHub Contributor
+###  👨‍💻  MERN Stack Developer | JavaScript | React.js | Node.js | MongoDB | Passionate About Building Modern Web Applications
 	
 <p align="center">
   <img   

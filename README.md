@@ -51,7 +51,7 @@ Hi, I’m Sridar Vijaya Kumar, a Mern stack developer passionate about building 
 
 <div align="center">
   
-🎯 Let's Build Something Amazing
+🎯 Let's Build Something Amazing!
 
 I’m always excited to collaborate, solve challenging problems, and turn concepts into live applications. Check out my projects, share ideas, or just say hello!
 

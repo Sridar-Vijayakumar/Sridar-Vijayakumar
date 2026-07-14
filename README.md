@@ -47,7 +47,7 @@ Hi, I’m Sridar Vijaya Kumar, a Mern stack developer passionate about building 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sridarvijayakumar@gmail.com)
 
 </div>
-
+                        
 
 <div align="center">
   

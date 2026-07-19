@@ -3,7 +3,7 @@
 # 👋 Hey there, I'm **Sridar Vijaya Kumar**     
                                                                                      
 ###  👨‍💻  MERN Stack Developer                                                                                             
-	               
+	                        
 <p align="center">                                                                                        
   <img   
     alt="Coding" 

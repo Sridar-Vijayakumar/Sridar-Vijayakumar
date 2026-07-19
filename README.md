@@ -1,6 +1,6 @@
 <div align="center">        
                                                                                                                
-# 👋 Hey there, I'm **Sridar Vijaya Kumar**                               
+# 👋 Hey there, I'm **Sridar Vijaya Kumar**                                         
                                                                                                        
 ###  👨‍💻  MERN Stack Developer                                                                                                                      
 	                                           

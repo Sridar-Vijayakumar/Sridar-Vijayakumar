@@ -5,7 +5,7 @@
 ###  👨‍💻  MERN Stack Developer                                                                                                                                                                 
 	                                                   
 <p align="center">                                                                                                      
-  <img   
+  <img        
     alt="Coding" 
     height="450" 
     width="650"  

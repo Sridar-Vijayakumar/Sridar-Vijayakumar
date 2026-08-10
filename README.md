@@ -26,6 +26,14 @@ I’m continuously learning and exploring new technologies, improving my develop
 
 Always open to connecting, learning, collaborating and growing with the developer community.
 
+## 🚀 Featured Projects
+
+### 🔹 Ecommerce
+Developed a full-stack e-commerce website using the MERN stack with authentication, product browsing, cart, orders, payments, and admin management.
+Built RESTful APIs using Node.js and Express.js, integrated MongoDB Atlas, Razorpay for secure payments, and tested APIs using Postman.
+
+---
+
 🔭 Projects & Skills                                        
 
 **Front-End Development:** Crafting responsive and user-friendly web interfaces using JavaScript, HTML5, CSS3, and modern UI frameworks like Tailwind CSS and Bootstrap.

@@ -33,6 +33,7 @@ Always open to connecting, learning, collaborating and growing with the develope
  Built RESTful APIs using Node.js and Express.js, integrated MongoDB Atlas, Razorpay for secure payments, and tested APIs using Postman.
 
 ### 🔹 Inventory-Management
+   MERN-based Inventory Management System for efficiently managing products, categories, suppliers, and stock. Provides a user-friendly dashboard to track inventory and streamline daily stock operations.
 
 ---
 

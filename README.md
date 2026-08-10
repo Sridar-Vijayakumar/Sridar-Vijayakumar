@@ -35,7 +35,7 @@ Always open to connecting, learning, collaborating and growing with the develope
 ### 🔹 Inventory-Management
    MERN-based Inventory Management System for managing products, categories, suppliers, and stock efficiently.
   Provides a user-friendly dashboard to track inventory and streamline daily stock operations.
-
+---
 
 🔭 Projects & Skills                                        
 

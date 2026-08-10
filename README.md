@@ -29,10 +29,13 @@ Always open to connecting, learning, collaborating and growing with the develope
 ## 🚀 Featured Projects
 
 ### 🔹 Ecommerce
-Developed a full-stack e-commerce website using the MERN stack with authentication, product browsing, cart, orders, payments, and admin management.
-Built RESTful APIs using Node.js and Express.js, integrated MongoDB Atlas, Razorpay for secure payments, and tested APIs using Postman.
+   Developed a full-stack e-commerce website using the MERN stack with authentication, product browsing, cart, orders, payments, and admin management.
+ Built RESTful APIs using Node.js and Express.js, integrated MongoDB Atlas, Razorpay for secure payments, and tested APIs using Postman.
 
----
+### 🔹 Inventory-Management
+   MERN-based Inventory Management System for managing products, categories, suppliers, and stock efficiently.
+  Provides a user-friendly dashboard to track inventory and streamline daily stock operations.
+
 
 🔭 Projects & Skills                                        
 

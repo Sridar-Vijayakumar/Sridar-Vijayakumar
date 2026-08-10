@@ -18,7 +18,13 @@
                                                                                                                                                                   
 👨‍💻 About Me
                 
-Hi, I’m Sridar Vijaya Kumar, a Mern stack developer passionate about building web applications that are fast, responsive, and scalable. I specialize in creating seamless user experiences on the front-end while ensuring robust back-end functionality. My goal is to turn ideas into functional, real-world applications.
+I’m currently pursuing my Bachelor’s in Computer Science and Engineering, with a strong interest in MERN Stack Development and building modern, scalable, and user-focused web applications. My curiosity about technology has grown into a passion for turning ideas into practical digital solutions that combine clean design, efficient functionality, and real-world usability.
+
+I have hands-on experience developing full-stack projects, including E-Commerce and Inventory Management applications. Through these projects, I gained practical experience in building product management features, search and filtering, shopping carts, authentication, RESTful APIs, database integration, and responsive user interfaces. These experiences have strengthened my understanding of modern web architecture, backend development, and building scalable user-focused applications.
+
+I’m continuously learning and exploring new technologies, improving my development skills through personal projects and open-source contributions. 
+
+Always open to connecting, learning, collaborating and growing with the developer community.
 
 🔭 Projects & Skills                                        
 

@@ -30,7 +30,7 @@ Always open to connecting, learning, collaborating and growing with the develope
 
 **Front-End Development:** Crafting responsive and user-friendly web interfaces using JavaScript, HTML5, CSS3, and modern UI frameworks like Tailwind CSS and Bootstrap.
                                     
-**Back-End Development:** Building server-side applications using Flask and Django, with a focus on clean architecture and efficient logic (Beginner level).
+**Back-End Development:** Built server-side applications using Flask at a beginner level, with experience in MongoDB Atlas for database management and Postman for API development and testing.
 
 **Java Programming:** Understanding core Java concepts and applying them to solve basic programming problems.
 
